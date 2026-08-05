@@ -12,4 +12,8 @@ Learning, building, and growing every single day
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Array
+|  |
+| ------- |
+| [3452-sum-of-good-numbers](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/3452-sum-of-good-numbers) |
 <!---LeetCode Topics End-->

@@ -28,6 +28,7 @@ Learning, building, and growing every single day
 | [0110-balanced-binary-tree](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0547-number-of-provinces](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -42,4 +43,13 @@ Learning, building, and growing every single day
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

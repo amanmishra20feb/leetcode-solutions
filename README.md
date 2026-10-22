@@ -15,6 +15,7 @@ Learning, building, and growing every single day
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/0134-gas-station) |
 | [0948-bag-of-tokens](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [3452-sum-of-good-numbers](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/3452-sum-of-good-numbers) |
 ## Tree
@@ -60,6 +61,7 @@ Learning, building, and growing every single day
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/0134-gas-station) |
 | [0948-bag-of-tokens](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 ## Sorting
 |  |

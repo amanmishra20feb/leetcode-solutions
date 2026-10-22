@@ -15,6 +15,7 @@ Learning, building, and growing every single day
 ## Array
 |  |
 | ------- |
+| [0948-bag-of-tokens](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [3452-sum-of-good-numbers](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/3452-sum-of-good-numbers) |
 ## Tree
 |  |
@@ -52,4 +53,16 @@ Learning, building, and growing every single day
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Two Pointers
+|  |
+| ------- |
+| [0948-bag-of-tokens](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+## Greedy
+|  |
+| ------- |
+| [0948-bag-of-tokens](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+## Sorting
+|  |
+| ------- |
+| [0948-bag-of-tokens](https://github.com/amanmishra20feb/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 <!---LeetCode Topics End-->
